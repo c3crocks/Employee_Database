@@ -1,4 +1,4 @@
-# Employee_Database
+# Pewlett-Hackard-Analysis
 
 ## Project Overview
 The project was done to analyze the number of employees those who are retiring and identifying those who could mentor the upcoming new employees and trainees to fill in the gaps. 
@@ -23,8 +23,8 @@ Below are the results of the analysis:
 
 ### Query to trainer/mentor to trainee ration
 
-![](https://github.com/c3crocks/Election_Analysis/blob/main/Resources/Capture.PNG)
+![](https://github.com/c3crocks/Pewlett-Hackard-Analysis/blob/main/results/ratio.PNG)
 
 ### Query to Count total Trainers/mentors
 
-![](https://github.com/c3crocks/Election_Analysis/blob/main/Resources/Capture.PNG)
+![](https://github.com/c3crocks/Pewlett-Hackard-Analysis/blob/main/results/count.PNG)
